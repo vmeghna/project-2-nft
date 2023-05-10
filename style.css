@@ -21,6 +21,8 @@
   box-shadow: 9px 9px 15px black;
   border-radius: 15px;
 }
+/*main pic*/
+
 .card {
   width: 16rem;
   height: auto;
@@ -50,6 +52,8 @@ p {
   flex-direction: row;
   margin-top: 15px;
 }
+/*ether*/
+
 .diamond {
   width: 2rem;
 }
@@ -58,6 +62,8 @@ p {
   margin-left: 5px;
   color: aqua;
 }
+/*clock*/
+
 .clock {
   width: 1rem;
   height: 1rem;
@@ -70,6 +76,8 @@ p {
   margin-left: 5px;
   color: white;
 }
+/*line*/
+
 hr {
   margin-top: 20px;
   color: rgb(158, 204, 204);
@@ -86,6 +94,8 @@ hr {
   color: white;
   font-weight: bolder;
 }
+/*new div for last name*/
+
 .big {
   margin-top: -30px;
   margin-left: 40px;
