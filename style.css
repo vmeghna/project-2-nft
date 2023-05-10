@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 2px solid black;
+  width: 1330px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(246, 76%, 8%);
+}
+.box {
+  width: 16rem;
+  height: 27rem;
+  padding: 50px 20px;
+  background-color: hsl(247, 43%, 12%);
+  box-shadow: 9px 9px 15px black;
+  border-radius: 15px;
+}
+.card {
+  width: 16rem;
+  height: auto;
+  -o-object-fit: contain;
+  align-items: center;
+  margin-top: -30px;
+  border-radius: 0.5rem;
+}
+h1 {
+  font-size: x-large;
+  font-weight: bolder;
+  text-align: left;
+  margin-top: 10px;
+  color: white;
+}
+p {
+  font-size: medium;
+  font-weight: 500;
+  text-align: left;
+  margin-top: 10px;
+  color: rgb(46, 145, 243);
+}
+
+.small-box {
+  width: 15rem;
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+.diamond {
+  width: 2rem;
+}
+.one {
+  margin-top: 10px;
+  margin-left: 5px;
+  color: aqua;
+}
+.clock {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 40px;
+  margin-top: 10px;
+  background-color: white;
+}
+.end {
+  margin-top: 10px;
+  margin-left: 5px;
+  color: white;
+}
+hr {
+  margin-top: 20px;
+  color: rgb(158, 204, 204);
+}
+.small {
+  width: 2rem;
+  margin-top: 20px;
+  height: auto;
+}
+.least {
+  color: white;
+}
+.color {
+  color: white;
+  font-weight: bolder;
+}
+.big {
+  margin-top: -30px;
+  margin-left: 40px;
+}
